@@ -15,6 +15,7 @@ port = 3000
 SALT_ROUNDS = 10
 BCRYPT_PASSWORD = "hello_there"
 token = "EMK]L@a<wy*b^@Z"
+db_port = 5432
 ```
 
 ## Set up
